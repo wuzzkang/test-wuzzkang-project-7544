@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Test Project",
+    "theme": "light"
+  },
+  "content": {
+    "hero": {
+      "heading": "Hello World",
+      "subheading": "Test Subheading",
+      "cta_text": "Click Me"
+    }
+  },
+  "features": [
+    {
+      "icon": "🚀",
+      "title": "Fast",
+      "desc": "Very fast"
+    }
+  ]
+}
