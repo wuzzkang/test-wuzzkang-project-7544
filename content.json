@@ -1,20 +1,14 @@
 {
-  "meta": {
-    "title": "Test Project",
-    "theme": "light"
-  },
+  "meta": { "title": "Landing Page Default", "theme": "light" },
   "content": {
     "hero": {
-      "heading": "Hello World",
-      "subheading": "Test Subheading",
-      "cta_text": "Click Me"
-    }
-  },
-  "features": [
-    {
-      "icon": "🚀",
-      "title": "Fast",
-      "desc": "Very fast"
-    }
-  ]
+      "heading": "Selamat Datang di Bisnis Anda",
+      "subheading": "Solusi terbaik untuk kebutuhan Anda hari ini.",
+      "cta_text": "Mulai Sekarang"
+    },
+    "features": [
+      { "title": "Fitur 1", "desc": "Deskripsi fitur yang menarik", "icon": "🚀" },
+      { "title": "Fitur 2", "desc": "Deskripsi fitur yang bermanfaat", "icon": "💡" }
+    ]
+  }
 }
